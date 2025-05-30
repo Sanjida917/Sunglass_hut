@@ -1,9 +1,15 @@
 
-h1{
-    background-color: beige;
+div{
+
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
-    background-image: url(../imgs/images.jpeg);
+    background-image: url(../imgs/image-cache.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 500px;
+    background-position: center;
+    text-align: center;
 }
 
 p{
